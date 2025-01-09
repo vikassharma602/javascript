@@ -1,2 +1,5 @@
 # javascript
-A code of javascript  from youtube
+
+A code of javascript from youtube
+<br>
+author - vikas sharma
