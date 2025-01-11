@@ -5,6 +5,7 @@ git clone <link https link github >
 git status
 
 git add <filename>  jo file aap upload karna chhahte ho 
+git add.. 
 
 git commit -m "message" history yaad rakhne k liye kya kaam kra ta
 
