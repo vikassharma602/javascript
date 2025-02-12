@@ -12,6 +12,32 @@ git commit -m "message" history yaad rakhne k liye kya kaam kra ta
 git push origin main   github p upload karne k liye finally 
 -----------------------------------------------------------------------
 
-               javascript
+                             javascript
 
-               
+ let    var     const 
+
+const =>  cant be reassign or cant be redeclare 
+
+    reassign    
+            const accountId =1444553
+            accountId = 2
+
+            console.log(accountId);
+   not change   because const value change nahi karta hai 
+   type error : show constan variable  
+        
+        redeclare 
+            const accountId =1444553
+            const  accountId = 2
+
+            console.log(accountId);
+   not change   because const value change nahi karta ha  
+   syntax error : show  because accountId already declare      
+
+let redeclare not all but reassign allow 
+
+show SyntaxError: Identifier 'accountEmail' has already been declared
+
+var not use because its block scope and function scope
+
+---------------------------------------------------------------------------
